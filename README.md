@@ -13,5 +13,5 @@
 </p>
 <h3>My projects</h3>
 <ul>
-  <li><a href="">Chip8 Emulator</a></li>
+  <li><a href="https://github.com/antoncazalet/Chip8Emulator">Chip8 Emulator</a></li>
 </ul>
