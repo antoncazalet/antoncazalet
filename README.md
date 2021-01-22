@@ -11,7 +11,3 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3>My projects</h3>
-<ul>
-  <li><a href="https://github.com/antoncazalet/Chip8Emulator">Chip8 Emulator</a></li>
-</ul>
